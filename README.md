@@ -1,6 +1,6 @@
 # zenon.wiki
 [zenon.wiki](https://zenon.wiki) is a community managed wiki for Zenon Network.<br>
-It is hosted through GitHub Pages at <https://github.com/georgezgeorgez/zenon-wiki>
+It is hosted through GitHub Pages at <https://github.com/zenon-wiki/zenon-wiki>
 
 ## Official Zenon Network Resources:
 * [website](https://zenon.network/)
