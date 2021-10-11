@@ -6,9 +6,6 @@ grand_parent: warpdrive
 nav_order: 1
 ---
 
-Hello my fellow Aliens. Despite the interesting discussion happening here right now I would like to submit an idea for the #WarpDrive event. 
-
-
 Please meet project IAM-Z -> Peace of mind in the age of web 3.0.
 
 
