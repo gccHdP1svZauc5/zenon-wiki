@@ -20,7 +20,7 @@ It is hosted through GitHub Pages at <https://github.com/zenon-wiki/zenon-wiki>
 
 ## Other Community Resources:
 *Note: These resources are provided by the community and are not thoroughly vetted by zenon.wiki. Information may be inaccurate, speculative, or out of date.*
-* [community telegram](https://t.me/zenon_community)
+* [community telegram](https://t.me/joinchat/sImVGqlVQSpkNTBk)
 * [community legacy explorer](https://explorer.zenon.community)
 * <https://hackernoon.com/how-not-to-fracture-a-layer-1-chain-qgi530g3>
 * <https://shazzamazzash.medium.com/zenon-network-an-apes-guide-to-the-galaxy-7aad7dacdfef>
