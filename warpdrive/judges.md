@@ -43,7 +43,11 @@ Crypto Nut is a crypto investor and well-known personality on crypto Twitter. He
 
 ## Dece
 
-TBD
+Green pilled & solving riddles with you lot since 2019. Ear to the ground with the community. Co-Founder of two successful companies. Coding experience (mainly python). Invested in many projects, can recognise value (as can we all in Zenon). As bullish as they come on this project. Want to see Zenon succeed.
+
+As a judge I'll be looking for plays along the following lines... Anything that helps others get ideas off the ground. Projects that foster community involvement. Projects that help portability of existing ecosystems into Zenon. Broadly, I'll be listening to you and incorporating the ideas you have around the various submissions to help land in line with community think.
+
+I'll be suggesting a couple of ideas myself to get community involvement / thought experimenting around them.
 
 ## Dumeril
 
