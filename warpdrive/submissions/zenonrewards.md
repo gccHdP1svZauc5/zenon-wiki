@@ -18,4 +18,4 @@ Other features could include: APY and reward statistics for a given address and 
 
 These tools will help onboard and encourage new network participants and help existing participants choose an optimal strategy to maximize rewards for example.
 
-To check out the work in progress, please visit: https://zenonrewards.xyz
+To check out the work in progress, please visit: <https://zenonrewards.xyz>
